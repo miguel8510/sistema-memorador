@@ -6,7 +6,6 @@ body {
     background-color: lightblue;
 }
 
-
 /* Style the header*/
 header{
     background-color: #666;
@@ -20,7 +19,7 @@ header{
 nav {
     float: left;
     width: 30%;
-    height: 800px; /* only for demonstration, should be removed */
+    height: 1500px; /* only for demonstration, should be removed */
     background: #ccc;
     padding: 20px;
 
@@ -47,16 +46,12 @@ section {
 
 }
 
-
-
 /* Style the footer*/
 footer {
     background-color: #777;
     padding: 10px;
     text-align: center;
     color: white;
-
-
 
 }
 @media(max-width:600px){
